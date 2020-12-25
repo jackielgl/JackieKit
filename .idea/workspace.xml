@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0d0f93-52ed-46bb-a603-22c54e473b7d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\store\maven\repository" />
+        <option name="mavenHome" value="D:/Program Ext/maven/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="C:\Users\jackie\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TZ5AXxKgYiZRNKHn1vv78SVkEb" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15472312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jackie.redis.util" />
+      <recent name="com.jackie.redis.config" />
+      <recent name="com.jackie.redis.service" />
+      <recent name="com.jackie.redis.pubsub" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\studyspace\java\JackieKit\redis\src\main\java\com\jackie\redis\config" />
+      <recent name="E:\studyspace\java\JackieKit\sftp\src\main\java\com\jackie\sftp\util" />
+      <recent name="E:\studyspace\java\JackieKit\redis\src\main\resources\static" />
+      <recent name="E:\studyspace\java\JackieKit\ftp\src\main\resources\static" />
+      <recent name="E:\studyspace\java\JackieKit\netty\src\main\java\com\jackie\netty\client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jackie.network.FooBar" />
+      <module name="network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jackie.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jackie.network.Inc" />
+      <module name="network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jackie.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jackie.network.Test" />
+      <module name="network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jackie.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jackie.netty.Test" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jackie.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jackie.network.Test2" />
+      <module name="network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jackie.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FtpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ftp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jackie.ftp.FtpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jackie.netty.NettyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="network" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jackie.network.NetworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jackie.redis.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SftpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sftp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jackie.sftp.SftpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Inc" />
+        <item itemvalue="Application.FooBar" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@89562987" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@89562987" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3e1f4d58" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jackie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0d0f93-52ed-46bb-a603-22c54e473b7d" name="Default Changelist" comment="" />
+      <created>1573654633587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573654633587</updated>
+      <workItem from="1573654637534" duration="305000" />
+      <workItem from="1573693571079" duration="2580000" />
+      <workItem from="1573738513337" duration="358000" />
+      <workItem from="1573781397416" duration="3077000" />
+      <workItem from="1573980393026" duration="633000" />
+      <workItem from="1574042870825" duration="1847000" />
+      <workItem from="1574128095732" duration="822000" />
+      <workItem from="1574211989500" duration="3399000" />
+      <workItem from="1574260662289" duration="31000" />
+      <workItem from="1574298629655" duration="1224000" />
+      <workItem from="1574384795716" duration="1852000" />
+      <workItem from="1574564499154" duration="701000" />
+      <workItem from="1574643946660" duration="1841000" />
+      <workItem from="1574729708187" duration="655000" />
+      <workItem from="1574822642777" duration="2615000" />
+      <workItem from="1574903808280" duration="1232000" />
+      <workItem from="1574990533807" duration="619000" />
+      <workItem from="1575183866129" duration="1259000" />
+      <workItem from="1575248373886" duration="2815000" />
+      <workItem from="1575860386085" duration="615000" />
+      <workItem from="1575946203344" duration="691000" />
+      <workItem from="1576735173407" duration="10711000" />
+      <workItem from="1583462089847" duration="18559000" />
+      <workItem from="1583653280392" duration="18641000" />
+      <workItem from="1583888439110" duration="1339000" />
+      <workItem from="1586950805376" duration="668000" />
+      <workItem from="1587379249617" duration="1677000" />
+      <workItem from="1587890736697" duration="845000" />
+      <workItem from="1587964312297" duration="1405000" />
+      <workItem from="1588059547011" duration="1753000" />
+      <workItem from="1588914550548" duration="623000" />
+      <workItem from="1588992526659" duration="747000" />
+      <workItem from="1589122693382" duration="1224000" />
+      <workItem from="1589281788760" duration="1028000" />
+      <workItem from="1589331088413" duration="608000" />
+      <workItem from="1589418543344" duration="1204000" />
+      <workItem from="1589458246660" duration="186000" />
+      <workItem from="1591865574006" duration="2199000" />
+      <workItem from="1591950906249" duration="4907000" />
+      <workItem from="1592185229687" duration="3004000" />
+      <workItem from="1592288969200" duration="664000" />
+      <workItem from="1592319189120" duration="652000" />
+      <workItem from="1592376349766" duration="2446000" />
+      <workItem from="1592548592275" duration="1255000" />
+      <workItem from="1592907637528" duration="1594000" />
+      <workItem from="1592961013319" duration="1316000" />
+      <workItem from="1593411340581" duration="4212000" />
+      <workItem from="1593670661280" duration="600000" />
+      <workItem from="1593913833582" duration="1231000" />
+      <workItem from="1601292856518" duration="235000" />
+      <workItem from="1602293230305" duration="61000" />
+      <workItem from="1602656667326" duration="3332000" />
+      <workItem from="1603328124181" duration="70000" />
+      <workItem from="1603417763027" duration="935000" />
+      <workItem from="1603515016609" duration="555000" />
+      <workItem from="1603710130748" duration="102000" />
+      <workItem from="1607049341239" duration="2676000" />
+      <workItem from="1607943372013" duration="611000" />
+      <workItem from="1607944084234" duration="420000" />
+      <workItem from="1608102964291" duration="2079000" />
+      <workItem from="1608183431805" duration="1847000" />
+      <workItem from="1608547553823" duration="877000" />
+      <workItem from="1608713253801" duration="1729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/jackie/redis/util/SpringUtil.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
